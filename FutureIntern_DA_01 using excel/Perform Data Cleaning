@@ -1,0 +1,20 @@
+Steps Involved
+Loading the Dataset
+
+Importing the dataset using appropriate libraries.
+Performing an initial inspection to understand the structure and content of the data.
+Handling Missing Values
+
+Identifying missing values in the dataset.
+Exploring different strategies for handling missing data, such as:
+Removing rows or columns with missing values.
+Imputing missing values using statistical methods (mean, median, mode) 
+
+Identifying Outliers
+
+Using statistical methods to identify outliers (e.g., Z-score, IQR).
+Visualizing the data to detect outliers using plots (e.g., box plots, scatter plots).
+Removing Outliers
+
+Deciding on a threshold for outlier removal based on the chosen statistical method.
+Implementing the outlier removal process while ensuring the integrity of the dataset.
